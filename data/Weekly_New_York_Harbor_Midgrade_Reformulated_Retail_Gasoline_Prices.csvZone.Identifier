@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMMR_PTE_Y35NY_DPG&f=W
+HostUrl=https://www.eia.gov/global/scripts/jquery/highcharts/exporting-server/csv_exporter.php
