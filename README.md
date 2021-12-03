@@ -20,7 +20,7 @@
 - `raw_data`: since the data size is too large, please run the "download" note book to dowlond all the taxi data, but THIS TAKES TIME AND REQUIRES ENOUGH DISK MEMORY (for a whole year data)
 - `data`: Contains all the preprocessed data files. 
 - `plots`: All the plots created
-- `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each 
+- `code`: All notebooks and scripts are in this folder. 
     - "preprocess.ipynb" for "Preprocessing" the taxi data
     Note: to run this book, you need to donwload 2019 whole year yellow taxi data to "../raw_data/2019" / run "download.ipynb". Also this notebook required a lot time to run (roughly 45-60mins), large enough memory and RAM to re-generate the "parquet" outputs in "../data/"
     - "weather_preprocess.ipynb": preprocessing the weather data same as above, don't run this if you don't have enough memory. (data is in "../raw_data/weather.csv")
