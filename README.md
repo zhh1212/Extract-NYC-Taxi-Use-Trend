@@ -1,5 +1,5 @@
 # Applied Data Science Project - Quantitative Analysis
-- Student Name: Huan Zhang
+- Name: Huan Zhang
 
 # Report Link: 
 - https://www.overleaf.com/read/yvwznfsvkswh
