@@ -1,7 +1,5 @@
-# MAST30034 Project - Quantitative Analysis
+# Applied Data Science Project - Quantitative Analysis
 - Student Name: Huan Zhang
-- Student ID: 1173919
-- Due Date: Friday 13th of August 11:59:00 am (AEST).
 
 # Report Link: 
 - https://www.overleaf.com/read/yvwznfsvkswh
